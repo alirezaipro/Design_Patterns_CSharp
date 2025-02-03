@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16_Visitor", "16_Visitor\16
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_Mediator", "17_Mediator\17_Mediator.csproj", "{F172767D-FE66-4264-9D54-2046992B73B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_Iterator", "18_Iterator\18_Iterator.csproj", "{5DB41703-2E7E-4A74-9DA9-D0B078C398C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{F172767D-FE66-4264-9D54-2046992B73B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F172767D-FE66-4264-9D54-2046992B73B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F172767D-FE66-4264-9D54-2046992B73B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB41703-2E7E-4A74-9DA9-D0B078C398C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB41703-2E7E-4A74-9DA9-D0B078C398C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB41703-2E7E-4A74-9DA9-D0B078C398C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB41703-2E7E-4A74-9DA9-D0B078C398C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
